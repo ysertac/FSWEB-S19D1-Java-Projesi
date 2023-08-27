@@ -1,4 +1,4 @@
-#  Java Spring REST API with JPA
+#  Java Hibernate Advance Mappings
 
 ### Proje Kurulumu
 
