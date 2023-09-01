@@ -40,7 +40,6 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
  ### Görev 3
  * ```controller``` paketi altında ```MovieController``` ve ```ActorController ```adında 2 tane controller yazmalısınız.
- * BurgerDaoImpl sınıfını BurgerController sınıfı altında ```Dependency Injection``` yöntemini kullanarak çağırınız
  * Amacımız CRUD işlemlerini tanımlayan endpointler yazmak.
  * [GET]/workintech/movies => tüm movie listini dönmeli.
  * [GET]/workintech/movies/{id} => İlgili id deki burger objesini dönmeli.
