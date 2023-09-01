@@ -43,12 +43,12 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Amacımız CRUD işlemlerini tanımlayan endpointler yazmak.
  * [GET]/workintech/movies => tüm movie listini dönmeli.
  * [GET]/workintech/movies/{id} => İlgili id deki burger objesini dönmeli.
- * [POST]/workintech/movies => Bir adet movie objesini veritabanına kaydeder.
+ * [POST]/workintech/movies/ => Bir adet movie objesi ve bir adet actor objesi alır ve ikisini de veritabanına ilişkileri ile birlikte kaydeder.
  * [PUT]/workintech/movies/{id} => İlgili id deki movie objesinin değerlerini yeni gelen data ile değiştirir.
  * [DELETE]/workintech/movies/{id} => İlgili id değerindeki movie objesini veritabanından siler.
  * [GET]/workintech/actors => tüm actors listini dönmeli.
  * [GET]/workintech/actors/{id} => İlgili id deki actor objesini dönmeli.
- * [POST]/workintech/actors => Bir adet actor objesini veritabanına kaydeder.
+ * [POST]/workintech/actors =>  Bir adet movie objesi ve bir adet actor objesi alır ve ikisini de veritabanına ilişkileri ile birlikte kaydeder.
  * [PUT]/workintech/actors/{id} => İlgili id deki actor objesinin değerlerini yeni gelen data ile değiştirir.
  * [DELETE]/workintech/actors/{id} => İlgili id değerindeki actor objesini veritabanından siler.
 
